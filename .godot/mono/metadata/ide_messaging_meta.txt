@@ -1,0 +1,2 @@
+﻿49452
+/private/var/folders/n8/4fh7fccs29d3skhl994hzwk80000gn/T/AppTranslocation/8A1629FF-E56B-4E5D-ACA7-B8F59FA4DC45/d/Godot_mono.app/Contents/MacOS/Godot

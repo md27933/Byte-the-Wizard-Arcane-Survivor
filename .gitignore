@@ -1,0 +1,15 @@
+# Godot-specific
+.import/
+.export/
+*.translation
+*.mono
+*.tmp
+
+# C# / Mono
+.vscode/
+.idea/
+*.csproj
+*.sln
+
+# OS junk
+.DS_Store

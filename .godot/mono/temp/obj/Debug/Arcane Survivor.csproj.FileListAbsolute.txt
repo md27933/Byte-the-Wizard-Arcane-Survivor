@@ -1,0 +1,17 @@
+/Users/mariovan/arcane-survivor/.godot/mono/temp/bin/Debug/Arcane Survivor.deps.json
+/Users/mariovan/arcane-survivor/.godot/mono/temp/bin/Debug/Arcane Survivor.runtimeconfig.json
+/Users/mariovan/arcane-survivor/.godot/mono/temp/bin/Debug/Arcane Survivor.dll
+/Users/mariovan/arcane-survivor/.godot/mono/temp/bin/Debug/Arcane Survivor.pdb
+/Users/mariovan/arcane-survivor/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/mariovan/arcane-survivor/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane Survivor.csproj.AssemblyReference.cache
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane Survivor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane Survivor.AssemblyInfoInputs.cache
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane Survivor.AssemblyInfo.cs
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane Survivor.csproj.CoreCompileInputs.cache
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane S.C7836EF2.Up2Date
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane Survivor.dll
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/refint/Arcane Survivor.dll
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane Survivor.pdb
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/Arcane Survivor.genruntimeconfig.cache
+/Users/mariovan/arcane-survivor/.godot/mono/temp/obj/Debug/ref/Arcane Survivor.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbyUqUs7Rvc=",
+  "success": true,
+  "projectFilePath": "/Users/mariovan/arcane-survivor/Arcane Survivor.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariovan/.nuget/packages/godot.sourcegenerators/4.6.0/godot.sourcegenerators.4.6.0.nupkg.sha512",
+    "/Users/mariovan/.nuget/packages/godotsharp/4.6.0/godotsharp.4.6.0.nupkg.sha512",
+    "/Users/mariovan/.nuget/packages/godotsharpeditor/4.6.0/godotsharpeditor.4.6.0.nupkg.sha512",
+    "/Users/mariovan/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/mariovan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1770511438
+::res://Assets/::1770514601
+::res://Assets/Backgrounds/::1770515105
+game_background.png::CompressedTexture2D::1434658600312360544::1770510947::1770510947::1::::<><><>0<>0<>38c85c27fcb0f21edfbc8cdeb21431fe<>res://.godot/imported/game_background.png-bbc0d64dbdec715f06c50a92da9556b6.ctex::
+home_background.png::CompressedTexture2D::4735621748786001095::1770515105::1770515106::1::::<><><>0<>0<>64a05273446708e1a58b328720a782d4<>res://.godot/imported/home_background.png-80badc7718070aa3188d22c25652e1a2.ctex::
+::res://Assets/UI/::1770514617
+start_button.png::CompressedTexture2D::1355042103451323761::1770514616::1770514617::1::::<><><>0<>0<>5d284d7a8fde6a392ae4c29e330d54eb<>res://.godot/imported/start_button.png-2f32ce9045b1ee2eb77047f52af9b365.ctex::
+::res://Scenes/::1770513931
+Game.tscn::PackedScene::7347584669549104503::1770513807::0::1::::<><><>0<>0<><>::uid://uo7u843evfbc::::res://Assets/Backgrounds/game_background.png
+Home.tscn::PackedScene::8079523205795233344::1770513931::0::1::::<><><>0<>0<><>::uid://0e8g2f6vh28f::::res://Scripts/Home.cs<>uid://b8p787b7kgd6n::::res://Assets/Backgrounds/home_background.png
+::res://Scripts/::1770511438
+Home.cs::CSharpScript::1764994404783116027::1770510290::0::1::::<>Control<><>0<>0<><>::
